@@ -1,2 +1,0 @@
-# PracticaSQLiteRoom
-VERO
